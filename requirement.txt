@@ -1,0 +1,5 @@
+numpy
+tqdm
+tensorflow-gpu==1.5
+keras
+pandas
